@@ -12,7 +12,7 @@ This repository includes the firmware for the webcam that enables the Atmel MCU 
 
 
 This firmware performs the following functions:
-* Initialize MCU (clock, board, etc.)
+* Initialize microcontroller (MCU) i.e. configure clock, board, etc.
 * Configure Zentri WiFi's USART protocol i.e. which ports are used for USART, allows USART to interrupt the MCU, peripheral clock, etc.
 * Initialize communication interrupt with Zentri WiFi (parsing Zentri WiFi commands)
 * manually initialize the Zentri WiFi module using its GPIO pins
