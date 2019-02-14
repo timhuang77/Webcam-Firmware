@@ -6,6 +6,7 @@ This is the final version of the firmware developed for the WiFi webcam embedded
 * Firmware design
 * Web interface design
 * Shell-enclosure 3D-printing
+
 This repository includes the firmware for the webcam that enables the Atmel MCU (SAM4S8B) that we have chosen to fetch image frames from the camera sensor and deliver the images to the desktop client via WebSocket protocol. 
 
 
