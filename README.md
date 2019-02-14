@@ -1,7 +1,5 @@
 # Webcam-Firmware
 
-# Project Title
-
 This is the final version of the firmware developed for the WiFi webcam embedded system for a course that I took at my university. In this course, I designed a WiFi webcam from start-to-finish, accomplishing tasks such as:
 * Component selection
 * Component soldering
